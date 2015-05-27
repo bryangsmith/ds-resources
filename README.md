@@ -25,3 +25,6 @@ Tutorials and Sample Code
 - [XGBoost](https://github.com/tqchen/xgboost/tree/master/demo/kaggle-higgs) tutorial
 - [Image classification](http://nbviewer.ipython.org/github/udibr/datasciencebowl/blob/master/141215-tutorial.ipynb) tutorial
 - [Lasagne / nolearn](http://nbviewer.ipython.org/github/ottogroup/kaggle/blob/master/Otto_Group_Competition.ipynb) tutorial
+
+Courses:
+- [CS231n](http://cs231n.github.io) - Convolutional Neural Networks
