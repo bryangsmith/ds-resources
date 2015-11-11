@@ -9,7 +9,7 @@ Movies
 
 Blogs
 - [Data Elixer](http://dataelixir.com/) - Data science newsletter with interesting links
-- [No Free Hunch](blog.kaggle.com) - Kaggle's blog - interesting discussions of popular/winning methods and techniques
+- [No Free Hunch](http://blog.kaggle.com) - Kaggle's blog - interesting discussions of popular/winning methods and techniques
 - [Edwin Chen's Blog](http://blog.echen.me/) - 
 - [MathBabe](http://mathbabe.org/) - Cathy O'Brien's blog - interesting discussions of data science, politics, and ethics
 - [Analytics Made Skeezy](http://analyticsmadeskeezy.com/) - Excel-based analytics tutorials loosely based on fictional criminal empire
@@ -56,7 +56,7 @@ Papers, Books, and Articles:
 
 - Movie Recommendation and Box Office Prediction
   - [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf) - collaborative filter
-  - [A Mood-based Genre Classification of Television Content](A Mood-based Genre Classification of Television Content) - Content classification
+  - [A Mood-based Genre Classification of Television Content](https://www.insight-centre.org/sites/default/files/publications/14.136_main-crc-v7.pdf) - Content classification
   - [How Netflix Reverse Engineered Hollywood](http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/) - Microgenre article
   - [NY Times Recommender](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
   - [Early Prediction of Movie Box Office Success Based on Wikipedia Activity Big Data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071226)
