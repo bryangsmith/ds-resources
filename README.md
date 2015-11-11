@@ -8,6 +8,7 @@ Movies
 - [Box Office Mojo](http://www.boxofficemojo.com) - Box Office Information
 
 Blogs
+- [Data Elixer](http://dataelixir.com/) - Data science newsletter with interesting links
 - [No Free Hunch](blog.kaggle.com) - Kaggle's blog - interesting discussions of popular/winning methods and techniques
 - [Edwin Chen's Blog](http://blog.echen.me/) - 
 - [MathBabe](http://mathbabe.org/) - Cathy O'Brien's blog - interesting discussions of data science, politics, and ethics
