@@ -53,6 +53,7 @@ Papers, Books, and Articles:
   - [Clustering Variable Length Sequences by Eigenvector Decomposition Using HMM](http://www.researchgate.net/publication/221275705_Clustering_Variable_Length_Sequences_by_Eigenvector_Decomposition_Using_HMM)
   - [Analysis of weighted networks](http://arxiv.org/pdf/cond-mat/0407503v1.pdf) - Movie network methodology
   - [Exploring the shapes of stories using Python and sentiment APIs](https://indico.io/blog/plotlines/)
+  - [User Modeling in Search Logs via a Nonparametric Bayesian Approach](http://sifaka.cs.uiuc.edu/~wang296/paper/wsdm488.pdf)
 
 - Movie Recommendation and Box Office Prediction
   - [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf) - collaborative filter
