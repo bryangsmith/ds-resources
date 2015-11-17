@@ -23,6 +23,7 @@ Blogs
 
 Tools
 - [Anaconda](http://continuum.io/downloads) - most of the common python data science tools in one package, as well as a virtual environment manager
+- [Jupyter](https://github.com/jupyter/docker-stacks) docker container
 - [Julia](http://julialang.org/) - new language with Matlab-like syntax, but faster
 - [R](http://www.r-project.org/) and [RStudio](http://www.rstudio.com/) - common statistical package and IDE
 - [Apache Spark](https://spark.apache.org/) - fast, scalable machine learning tools
