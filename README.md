@@ -66,3 +66,4 @@ Papers, Books, and Articles:
 
 - Statistics
   - [Bayesian A/B Testing at VWO](https://cdn2.hubspot.net/hubfs/310840/VWO_SmartStats_technical_whitepaper.pdf)
+  - [Intro to Bayesian Inference](http://www.nikhef.nl/pub/services/biblio/preprints/09-027.pdf)
