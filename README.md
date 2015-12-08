@@ -20,6 +20,7 @@ Blogs
 - [Chris Stuccio](https://www.chrisstucchio.com/) - Marketing analytics and statistics
 - [i am trask](https://iamtrask.github.io) - Neural network blog
 - [TechnoCalifornia](http://technocalifornia.blogspot.co.nz) - Recommender systems
+- [While My MCMC Gently Samples](http://twiecki.github.io) - Probabalistic Programming
 
 Tools
 - [Anaconda](http://continuum.io/downloads) - most of the common python data science tools in one package, as well as a virtual environment manager
@@ -67,3 +68,10 @@ Papers, Books, and Articles:
 - Statistics
   - [Bayesian A/B Testing at VWO](https://cdn2.hubspot.net/hubfs/310840/VWO_SmartStats_technical_whitepaper.pdf)
   - [Intro to Bayesian Inference](http://www.nikhef.nl/pub/services/biblio/preprints/09-027.pdf)
+  - [Hierarchical Bayes Mental Illness](http://ski.clps.brown.edu/papers/wiecki_phd_thesis.pdf)
+
+- Marketing
+  - [Customer Lifetime Value (RFM)](http://brucehardie.com/papers/rfm_clv_2005-02-16.pdf)
+  - [Hierarchical Bayes Pareto/NBD](http://ski.clps.brown.edu/papers/wiecki_phd_thesis.pdf)
+  - [Customer Base Analysis](http://ski.clps.brown.edu/papers/wiecki_phd_thesis.pdf)
+  - 
