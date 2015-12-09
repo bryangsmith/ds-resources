@@ -66,6 +66,7 @@ Papers, Books, and Articles:
   - [Quantitative analysis of the evolution of novelty in cinema through crowdsourced keywords](http://arxiv.org/pdf/1304.0786v3.pdf)
   - [Collaborative Bayesian Filtering](http://alexbeutel.com/papers/www2014.cobafi.pdf)
   - [Adaptive BPR](http://www.cse.ust.hk/~weikep/papers/KBS2015-ABPR.pdf)
+  - [BPR for Implicit Feedback](http://arxiv.org/pdf/1205.2618.pdf)
 
 - Statistics
   - [Bayesian A/B Testing at VWO](https://cdn2.hubspot.net/hubfs/310840/VWO_SmartStats_technical_whitepaper.pdf)
