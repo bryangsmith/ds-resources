@@ -64,6 +64,8 @@ Papers, Books, and Articles:
   - [NY Times Recommender](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
   - [Early Prediction of Movie Box Office Success Based on Wikipedia Activity Big Data](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071226)
   - [Quantitative analysis of the evolution of novelty in cinema through crowdsourced keywords](http://arxiv.org/pdf/1304.0786v3.pdf)
+  - [Collaborative Bayesian Filtering](http://alexbeutel.com/papers/www2014.cobafi.pdf)
+  - [Adaptive BPR](http://www.cse.ust.hk/~weikep/papers/KBS2015-ABPR.pdf)
 
 - Statistics
   - [Bayesian A/B Testing at VWO](https://cdn2.hubspot.net/hubfs/310840/VWO_SmartStats_technical_whitepaper.pdf)
