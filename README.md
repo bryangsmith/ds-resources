@@ -32,6 +32,7 @@ Tools
 - [LibLinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/) - library of linear predictors for massive datasets
 - [Lasagne](https://github.com/Lasagne/Lasagne), [nolearn](https://pythonhosted.org/nolearn/), and [theano](http://www.deeplearning.net/software/theano/) - python neural net/deep learning implementations
 - [TensorFlow](http://tensorflow.org/) - Numerical solver on data flow graphs
+- [mpld3](http://mpld3.github.io/notebooks/mpld3_demo.html)
 
 Tutorials and Sample Code
 - [Linear Classifier](https://www.kaggle.com/c/amazon-employee-access-challenge/forums/t/4797/starter-code-in-python-with-scikit-learn-auc-885) with one-hot encoding
