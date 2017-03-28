@@ -21,6 +21,7 @@ Blogs
 - [i am trask](https://iamtrask.github.io) - Neural network blog
 - [TechnoCalifornia](http://technocalifornia.blogspot.co.nz) - Recommender systems
 - [While My MCMC Gently Samples](http://twiecki.github.io) - Probabalistic Programming
+- [Agustinus Kristiadi's Blog](http://wiseodd.github.io/) - Neural Networks
 
 Tools
 - [Anaconda](http://continuum.io/downloads) - most of the common python data science tools in one package, as well as a virtual environment manager
@@ -33,6 +34,7 @@ Tools
 - [Lasagne](https://github.com/Lasagne/Lasagne), [nolearn](https://pythonhosted.org/nolearn/), and [theano](http://www.deeplearning.net/software/theano/) - python neural net/deep learning implementations
 - [TensorFlow](http://tensorflow.org/) - Numerical solver on data flow graphs
 - [mpld3](http://mpld3.github.io/notebooks/mpld3_demo.html)
+- [Edward](http://edwardlib.org) - Probabilistic Inference Library
 
 Tutorials and Sample Code
 - [Linear Classifier](https://www.kaggle.com/c/amazon-employee-access-challenge/forums/t/4797/starter-code-in-python-with-scikit-learn-auc-885) with one-hot encoding
