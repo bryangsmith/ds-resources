@@ -47,6 +47,9 @@ Tutorials and Sample Code
 - [Probabalistic Programming](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/) tutorial
 
 
+Repositories:
+- [Rossman Entity Embedding](https://github.com/entron/entity-embedding-rossmann)
+
 Courses:
 - [CS231n](http://cs231n.github.io) - Convolutional Neural Networks
 
