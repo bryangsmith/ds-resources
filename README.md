@@ -23,18 +23,6 @@ Blogs
 - [While My MCMC Gently Samples](http://twiecki.github.io) - Probabalistic Programming
 - [Agustinus Kristiadi's Blog](http://wiseodd.github.io/) - Neural Networks
 
-Tools
-- [Anaconda](http://continuum.io/downloads) - most of the common python data science tools in one package, as well as a virtual environment manager
-- [Jupyter](https://github.com/jupyter/docker-stacks) docker container
-- [Julia](http://julialang.org/) - new language with Matlab-like syntax, but faster
-- [R](http://www.r-project.org/) and [RStudio](http://www.rstudio.com/) - common statistical package and IDE
-- [Apache Spark](https://spark.apache.org/) - fast, scalable machine learning tools
-- [XGBoost](https://github.com/dmlc/xgboost) - fast implementation of gradient boosted trees
-- [LibLinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/) - library of linear predictors for massive datasets
-- [Lasagne](https://github.com/Lasagne/Lasagne), [nolearn](https://pythonhosted.org/nolearn/), and [theano](http://www.deeplearning.net/software/theano/) - python neural net/deep learning implementations
-- [TensorFlow](http://tensorflow.org/) - Numerical solver on data flow graphs
-- [mpld3](http://mpld3.github.io/notebooks/mpld3_demo.html)
-- [Edward](http://edwardlib.org) - Probabilistic Inference Library
 
 Tutorials and Sample Code
 - [Linear Classifier](https://www.kaggle.com/c/amazon-employee-access-challenge/forums/t/4797/starter-code-in-python-with-scikit-learn-auc-885) with one-hot encoding
@@ -45,13 +33,7 @@ Tutorials and Sample Code
 - [Image classification](http://nbviewer.ipython.org/github/udibr/datasciencebowl/blob/master/141215-tutorial.ipynb) tutorial
 - [Lasagne / nolearn](http://nbviewer.ipython.org/github/ottogroup/kaggle/blob/master/Otto_Group_Competition.ipynb) tutorial
 - [Probabalistic Programming](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/) tutorial
-
-
-Repositories:
 - [Rossman Entity Embedding](https://github.com/entron/entity-embedding-rossmann)
-
-Courses:
-- [CS231n](http://cs231n.github.io) - Convolutional Neural Networks
 
 Papers, Books, and Articles:
 - General Machine Learning
@@ -62,6 +44,9 @@ Papers, Books, and Articles:
   - [Analysis of weighted networks](http://arxiv.org/pdf/cond-mat/0407503v1.pdf) - Movie network methodology
   - [Exploring the shapes of stories using Python and sentiment APIs](https://indico.io/blog/plotlines/)
   - [User Modeling in Search Logs via a Nonparametric Bayesian Approach](http://sifaka.cs.uiuc.edu/~wang296/paper/wsdm488.pdf)
+
+- NLP
+  - [List of Relevant Papers](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 
 - Movie Recommendation and Box Office Prediction
   - [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf) - collaborative filter
@@ -75,6 +60,7 @@ Papers, Books, and Articles:
   - [BPR for Implicit Feedback](http://arxiv.org/pdf/1205.2618.pdf)
 
 - Statistics
+  - [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
   - [Bayesian A/B Testing at VWO](https://cdn2.hubspot.net/hubfs/310840/VWO_SmartStats_technical_whitepaper.pdf)
   - [Intro to Bayesian Inference](http://www.nikhef.nl/pub/services/biblio/preprints/09-027.pdf)
   - [Hierarchical Bayes Mental Illness](http://ski.clps.brown.edu/papers/wiecki_phd_thesis.pdf)
