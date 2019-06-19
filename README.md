@@ -23,6 +23,7 @@ Blogs
 
 Tutorials and Sample Code
 - [Deep Learning Examples](https://github.com/rasbt/deeplearning-models)
+- [How to Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
 - [Kedro](https://github.com/quantumblacklabs/kedro)
 - [Allen NLP](https://github.com/allenai/allennlp)
 - [FTRL](https://www.kaggle.com/c/avazu-ctr-prediction/forums/t/10927/beat-the-benchmark-with-less-than-1mb-of-memory) example for click-through-rates 
