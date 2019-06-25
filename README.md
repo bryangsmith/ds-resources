@@ -9,6 +9,7 @@ Movies
 
 Blogs
 - [Data Elixer](http://dataelixir.com/) - Data science newsletter with interesting links
+- [Tuatini](https://tuatini.me/#open) - Interesting deep learning blog
 - [No Free Hunch](http://blog.kaggle.com) - Kaggle's blog - interesting discussions of popular/winning methods and techniques
 - [Colah](https://colah.github.io/) - Explanations of machine learning and information theory concepts
 - [Dustin Tran](http://dustintran.com/)
