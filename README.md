@@ -56,6 +56,7 @@ Papers, Books, and Articles:
   
 - Reinforcement Learning
   - [Evolution Strategies](https://openai.com/blog/evolution-strategies/)
+  - [Introduction to Multi-Armed Bandits](https://arxiv.org/pdf/1904.07272.pdf) - Paper on bandits
 
 - Movie Recommendation and Box Office Prediction
   - [PyTorch for Recommenders](https://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html)
