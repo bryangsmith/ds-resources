@@ -48,6 +48,7 @@ Papers, Books, and Articles:
   - [Data Driven Approach to Personality Clustering](https://www.nature.com/articles/s41562-018-0419-z.epdf?shared_access_token=M3M9_UP3QtwyNRBr5A7XH9RgN0jAjWel9jnR3ZoTv0PbRwLTEd85scCBSi3OeK7uyh4qgUy9Satji-HKNATX3SHMPmUHf1CahU4lCcmf6SmS7wbzIFYIyNtk0qimNClRYCufr-SN80DJ4MmmhMx7Sb6n6Qk4Y2MN7XEwvxUCrQU%3D)
 
 - NLP
+  - [Curated Papers](https://github.com/mihail911/nlp-library)
   - [List of Relevant Papers](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
   - [Hierarchical Attention](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
   - [Recurrent Neural Networks](https://medium.com/datadriveninvestor/recurrent-neural-network-rnn-52dd4f01b7e8)
